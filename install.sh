@@ -1,1 +1,1 @@
-cp create_table_test.sql /tmp
+mv create_table_test.sql create_table_test.sql_build_success
