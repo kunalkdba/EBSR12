@@ -1,1 +1,1 @@
-wget https://github.com/kunalkdba/EBSR12/blob/master/create_table_test.sql
+wget -i https://raw.githubusercontent.com/kunalkdba/EBSR12/blob/master/create_table_test.sql
