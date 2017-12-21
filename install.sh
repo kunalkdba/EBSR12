@@ -1,1 +1,1 @@
-mv create_table_test.sql create_table_test.sql_build_success
+mv create_table_test.sql create_table_test.sql_build_successful
