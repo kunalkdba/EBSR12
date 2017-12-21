@@ -1,1 +1,2 @@
 mv create_table_test.sql create_table_test.sql_build_successful
+mv XX_ITEM_EXECUTION_SCRIPT.sql XX_ITEM_EXECUTION_SCRIPT.sql_success
